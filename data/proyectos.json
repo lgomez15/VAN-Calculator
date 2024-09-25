@@ -1,0 +1,68 @@
+{
+    "Proyectos_Reunidos_SA": [
+      {
+        "proyecto": "A",
+        "desembolso_inicial": -27356.478,
+        "coste_capital": "10%",
+        "flujos_de_caja": [8326.457, 9654.328, 10342.657, 12368.942, 13458.329, -15326.901]
+      },
+      {
+        "proyecto": "B",
+        "desembolso_inicial": -25486.120,
+        "coste_capital": "10%",
+        "flujos_de_caja": [6894.001, 8023.604, 8503.610, 9321.054]
+      },
+      {
+        "proyecto": "C",
+        "desembolso_inicial": -10365.000,
+        "coste_capital": "10%",
+        "flujos_de_caja": [-2365.809, -1364.578, 2365.408, 3567.921, 4328.700, 4860.305, 6381.247]
+      },
+      {
+        "proyecto": "D",
+        "desembolso_inicial": -12894.300,
+        "coste_capital": "10%",
+        "flujos_de_caja": [3265.400, 3523.610, -2832.651, 4321.753, 5636.421, 6580.902]
+      },
+      {
+        "proyecto": "E",
+        "desembolso_inicial": -4325.624,
+        "coste_capital": "10%",
+        "flujos_de_caja": [2365.430, 3246.500, 4256.789]
+      }
+    ],
+    
+    "Empresa_Central_Americana_SA": [
+      {
+        "pais": "Costa Rica",
+        "coste_capital": "9.21%",
+        "desembolso_inicial": -7365.100,
+        "flujos_de_caja": [2656.304, 1603.410, 1985.320, 2103.506, 2314.561]
+      },
+      {
+        "pais": "El Salvador",
+        "coste_capital": "5.01%",
+        "desembolso_inicial": -5364.200,
+        "flujos_de_caja": [-1256.432, 2365.004, 3560.120, 3645.300, -1135.642]
+      },
+      {
+        "pais": "Guatemala",
+        "coste_capital": "9.10%",
+        "desembolso_inicial": -4326.123,
+        "flujos_de_caja": [-123.540, 1652.320, 1785.123, 1826.541, 2100.321]
+      },
+      {
+        "pais": "Honduras",
+        "coste_capital": "9.50%",
+        "desembolso_inicial": -4324.610,
+        "flujos_de_caja": [-1326.540, 1365.423, 1458.920, 1647.932, 2835.466]
+      },
+      {
+        "pais": "Nicaragua",
+        "coste_capital": "10.34%",
+        "desembolso_inicial": -6500.640,
+        "flujos_de_caja": [-145.603, 2356.426, -254.632, 3256.974, 4789.235]
+      }
+    ]
+  }
+  
